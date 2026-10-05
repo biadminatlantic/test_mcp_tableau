@@ -1,0 +1,8 @@
+{
+  "client_id": "https://<utente>.github.io/<repo>/client-metadata.json",
+  "client_name": "Dataknot",
+  "redirect_uris": ["https://atai.erptue.cloud/setup/tableau-oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
