@@ -1,7 +1,7 @@
 {
   "client_id": "https://biadminatlantic.github.io/test_mcp_tableau/client-metadata.json",
   "client_name": "Dataknot",
-  "redirect_uris": ["https://global.consent.azure-apim.net/redirect"],
+  "redirect_uris": ["https://global.consent.azure-apim.net/redirect/cr6e6-5ftableau-20cloud-20atai-5f942b8b4b4d5204c3"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none"
