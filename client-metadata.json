@@ -1,7 +1,7 @@
 {
-  "client_id": "https://<utente>.github.io/<repo>/client-metadata.json",
+  "client_id": "https://raw.githubusercontent.com/biadminatlantic/test_mcp_tableau/refs/heads/main/client-metadata.json",
   "client_name": "Dataknot",
-  "redirect_uris": ["https://atai.erptue.cloud/setup/tableau-oauth/callback"],
+  "redirect_uris": ["https://global.consent.azure-apim.net/redirect"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none"
